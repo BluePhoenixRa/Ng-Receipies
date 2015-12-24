@@ -1,1 +1,0 @@
-recepies = angular.module('recepies', [])

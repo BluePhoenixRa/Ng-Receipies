@@ -1,7 +1,7 @@
 {
   "name": "dsl-generated dependencies",
   "dependencies": {
-    "bootstrap": "latest",
-    "angular": "latest"
+    "angular": "latest",
+    "angular-route": "latest"
   }
 }
